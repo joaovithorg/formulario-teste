@@ -1,0 +1,49 @@
+.Titulo{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 180%;
+}
+.Nome{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.Sobrenome{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.Email{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.Senha{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;;
+}
+.Comunidade{
+    text-align: center; 
+    margin: 4rem;
+    font-family: 'Fira Sans', sans-serif;
+}
+.Enviar{
+       color: #FFF;
+       border: none;
+       height: 55px;
+       line-height: 30px;
+       padding: 10px 100px 10px 100px;
+       text-transform: uppercase;
+       font-weight: bold;
+       cursor: pointer;
+       font-family: 'Fira Sans', sans-serif;
+       background-color: black;
+}
+.Memb{
+    font-size: 15px;
+}
+input[type="text"] {
+    width: 280px;
+    height: 40px;
+}
+input[type="password"] {
+    width: 280px;
+    height: 40px;
+}
